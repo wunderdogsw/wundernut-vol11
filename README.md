@@ -2,7 +2,7 @@
 
 *Spring 2022*
 
-(Find our other Wundernuts [here](https://github.com/wunderdogsw/wunderpahkinas))
+(Find our other Wundernuts [here](https://github.com/wunderdogsw/wundernuts))
 
 ## Starfleet calls for your help!
 
