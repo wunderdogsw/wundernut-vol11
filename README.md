@@ -18,7 +18,7 @@ We have received a [message](./message.wav), which our computer cannot decipher 
 
 ## Rules
 
-* Use [submission form](https://www.wunderdog.fi/) to submit your contribution
+* Use [submission form](https://www.wunderdog.fi/wundernut) to submit your contribution
 * The submission must include full source code and instructions to compile the program
 * All submissions will be reviewed by jury, which consists of Wunderdog developers
 * Best submission, in terms of general [code quality metrics](https://blog.cloudboost.io/code-quality-metrics-67dc861ac139), will be selected from programs which fulfill the specification
