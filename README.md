@@ -1,6 +1,6 @@
 # What's that noise?
 
-*Christmas 2021*
+*Spring 2022*
 
 (Find our other wundernuts [here](https://github.com/wunderdogsw/wunderpahkinas))
 
