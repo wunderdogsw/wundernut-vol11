@@ -13,7 +13,7 @@ We have received a [message](./message.wav), which our computer cannot decipher 
 * The messages are Microsoft WAV/PCM files similar to [message](./message.wav) (16bit 44.1kHz Mono, `.wav` -filetype)
 * Choose any programming language and set of libraries for the task
 * The program needs to be able to open the waveform file
-* The program must decode any alphanumeric International Morse Code](https://en.wikipedia.org/wiki/Morse_code) characters and punctuation mark (`.`, which is `.-.-.-` in morse)
+* The program must decode any alphanumeric [International Morse Code](https://en.wikipedia.org/wiki/Morse_code) characters and punctuation mark (`.`, which is `.-.-.-` in morse)
 * Characters must be printed in text format after decoding is complete
 
 ## Rules
