@@ -22,3 +22,24 @@ We have received a [message](./message.wav), which our computer cannot decipher 
 * The submission must include full source code and instructions to compile and run the program
 * All submissions will be reviewed by a jury, which consists of Wunderdog developers
 * Best submission, in terms of general [code quality metrics](https://blog.cloudboost.io/code-quality-metrics-67dc861ac139), will be selected from programs which fulfill the specification
+
+## Submissions
+
+1. https://github.com/jpohjolainen/wundernut-vol11
+2. https://github.com/anttiz/wav-to-morse
+3. https://github.com/jarsba/morse-coder
+4. https://github.com/zstojanovic/wav-morse-decoder
+5. https://git.k0r.in/n/emergency-morse-translator
+6. https://github.com/jjylik/endeavour
+7. file submission
+8. https://github.com/mkouhia/morse-audio-decoder
+9. https://github.com/anttiz/wav-to-morse-web
+10. file submission
+11. file submission
+12. https://github.com/tfriman/wundernut-vol11
+
+# Results
+
+Raw [results](./RESULTS.md) by the jury, for someone who wants to know more how the submissions were evaluated.
+
+Winners are posted in the [main Wundernut-page](https://www.wunderdog.fi/wundernut) in Wunderdog's website.
